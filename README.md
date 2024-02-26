@@ -4,7 +4,7 @@ cd travel_eth_project/travel_ethiopia
 - Run the main.py file
 python main.py
 Select the desired *questions* from q1 to q4
-> Choose the type of algorithm
+- Choose the type of algorithm
 
 ## Running q5 of the Project
  This part of the project uses ros2 foxy and gazebo classic 11
